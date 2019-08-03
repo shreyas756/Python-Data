@@ -1,0 +1,9 @@
+class student:
+	def __init__(self,marks,cls,name):
+		self.marks=marks
+		self.cls=cls
+		self.nam=name
+	def __str__(self):
+		return "name :{}  cls:{}   marks:{}.formate(self.name,self.cls,self.marks)"
+
+str.student=student[95,12,shreyas]

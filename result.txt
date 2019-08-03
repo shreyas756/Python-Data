@@ -1,0 +1,15 @@
+The student got more than 60% are:-7
+['3', 'vivek', 61.6]
+['1', 'shreyas khede', 64.0]
+['5', 'mika', 65.8]
+['2', 'anamika', 66.0]
+['4', 'nisha', 68.2]
+['9', 'payal', 73.2]
+['8', 'tinku', 78.0]
+The student got bet 50-60 are:-5
+['6', 'usha', 51.8]
+['10', 'tina', 56.4]
+['11', 'pihu', 56.4]
+['7', 'asha', 58.0]
+['12', 'raj', 59.0]
+The student less than 50 are:-0

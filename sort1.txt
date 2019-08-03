@@ -1,0 +1,4 @@
+n=int(input("enter the total no. of element you want to sort"))
+lst=[]
+for x in range (0,n):
+	lst.append(input("enter the element",x)) 
